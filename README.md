@@ -37,3 +37,10 @@ _fill each filed with your info respectively_
 
 ![Alt text](../../../G:/DOWNLOADED/Screenshot%202022-11-15%20213942.png)
 
+![Alt text](../Screenshot%202022-11-17%20013800.png)
+
+![Alt text](../Screenshot%202022-11-17%20013845.png)
+
+![Alt text](../Screenshot%202022-11-17%20013942.png)
+
+![Alt text](../Screenshot%202022-11-17%20014151.png)
