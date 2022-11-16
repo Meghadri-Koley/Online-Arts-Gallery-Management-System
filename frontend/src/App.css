@@ -7,6 +7,27 @@ body {
   cursor: url("./images/cursor.png"), auto;
 }
 
+/* Custom ScrollBar */
+/* width */
+::-webkit-scrollbar {
+  width: 15px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background-color: #e4e4e4;
+  border-radius: 100px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  border: 3.5px solid transparent;
+  border-radius: 100px;
+  background-color: #ff3737;
+  background-clip: content-box;
+}
+
+
 /* Chrome, Safari, Edge, Opera */
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
