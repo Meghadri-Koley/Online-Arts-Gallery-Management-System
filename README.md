@@ -1,6 +1,6 @@
 # MERN Online Arts Gallery Project
 
-# Preequisits:
+# Prerequisits:
 
 Install NodeJs
 
