@@ -2,9 +2,9 @@
     "version": 2,
     "name": "oagms",
     "builds": [
-       { "src": "../server.js", "use": "@vercel/node" }
+       { "src": "./backend/server.js", "use": "@vercel/node" }
     ],
     "routes": [
-       { "src": "../(.*)", "dest": "../server.js" }
+       { "src": "./backend/(.*)", "dest": "./backend/server.js" }
     ]
  }
