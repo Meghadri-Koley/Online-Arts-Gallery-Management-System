@@ -45,12 +45,13 @@ import NotFound from "./component/layout/Not Found/NotFound";
 
 function App() {
   axios.defaults.withCredentials = true;
+
   const { isAuthenticated, user } = useSelector((state) => state.user);
 
   const [stripeApiKey, setStripeApiKey] = useState("");
 
   async function getStripeApiKey() {
-    const { data } = await axios.get("/api/v1/stripeapikey");
+    const { data } = await axios.get(`${process.env.REACT_APP_BACKEND_URL}/api/v1/stripeapikey`);
 
     setStripeApiKey(data.stripeApiKey);
   }
