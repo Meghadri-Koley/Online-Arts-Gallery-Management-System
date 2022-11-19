@@ -1,8 +1,7 @@
-# **In the project directory, run:**
-
-**Create a .env file and set the following enviornment variable:**
+# **Create a .env file and set the following enviornment variable:**
 ```REACT_APP_BACKEND_URL=```
 
+# **In the project directory, run:**
 ### `npm start`
 
 Runs the app in the development mode.\
