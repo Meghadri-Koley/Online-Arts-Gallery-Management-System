@@ -1,8 +1,15 @@
-# MERN Online Arts Gallery Project
+# Online Arts Gallery Management System using MERN Stack
+
+**Visit Project:**
+**https://oagms-frontend.vercel.app/**
+
+**Backend** : **render**
+
+**Frontend** : **Vercel**
 
 # Prerequisits:
 
-Install NodeJs
+```Install Node.Js```
 
 
 # Install Dependencies
@@ -44,4 +51,4 @@ _fill each filed with your info respectively_
 
 ![Screenshot 2022-11-17 014151](https://user-images.githubusercontent.com/77243269/202284619-276744c7-011f-4331-9e54-ca58810a43f3.png)
 
-# Do star the Repo if you find it useful.
+>**Do star the Repo if you find it useful**
