@@ -1,4 +1,5 @@
-# **Create a .env file and set the following enviornment variable:**
+## Env Vairable
+**Create a .env file and set the following enviornment variable:**
 ```REACT_APP_BACKEND_URL=```
 
 # **In the project directory, run:**
