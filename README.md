@@ -1,7 +1,7 @@
 # Online Arts Gallery Management System using MERN Stack
 
 **Visit Project:**
-**https://oagms-frontend.vercel.app/**
+**https://oagms.vercel.app/**
 
 **Backend** : **render**
 
