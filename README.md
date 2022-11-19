@@ -1,11 +1,14 @@
-# Online Arts Gallery Management System using MERN Stack
+# Online Arts Gallery Management System using MERN Stack 👨‍🎨👨‍🎨👨‍🎨
 
-**Visit Project:**
-**https://oagms.vercel.app/**
+**Visit Project⤵️**
 
-**Backend** : **render**
+**🔗https://oagms.vercel.app/**
 
-**Frontend** : **Vercel**
+**For Hosting(Heroku Alternative)⤵️**
+
+**Backend** : **```Render```** (Response time⏰: 30sec approximately)
+
+**Frontend** : **```Vercel```**
 
 # Prerequisits:
 
@@ -24,21 +27,21 @@ Make Sure to Create a config.env file in backend/config directory and add approp
 
 **Essential Variables**
 `PORT=
-DB_URI =
-STRIPE_API_KEY=
-STRIPE_SECRET_KEY=
+DB_URI = 
+STRIPE_API_KEY= 
+STRIPE_SECRET_KEY= 
 JWT_SECRET=
 JWT_EXPIRE=
 COOKIE_EXPIRE=
-SMPT_SERVICE =
-SMPT_MAIL=
-SMPT_PASSWORD=
-SMPT_HOST=
-SMPT_PORT=
-CLOUDINARY_NAME=
-CLOUDINARY_API_KEY=
-CLOUDINARY_API_SECRET=
-FRONTEND`
+SMPT_SERVICE = 
+SMPT_MAIL= 
+SMPT_PASSWORD= 
+SMPT_HOST= 
+SMPT_PORT= 
+CLOUDINARY_NAME= 
+CLOUDINARY_API_KEY= 
+CLOUDINARY_API_SECRET= 
+FRONTEND= `
 _fill each filed with your info respectively_
 
 # Screenshots
@@ -52,4 +55,4 @@ _fill each filed with your info respectively_
 
 ![Screenshot 2022-11-17 014151](https://user-images.githubusercontent.com/77243269/202284619-276744c7-011f-4331-9e54-ca58810a43f3.png)
 
->**Do star the Repo if you find it useful**
+## **Do 🌟 & fork the Repo if you find it useful**
