@@ -19,7 +19,7 @@
 
 **For Backend** - `npm i`
 
-**For Frontend** - `cd frontend` ` npm i`
+**For Frontend** - ```cd frontend``` ``` npm i```
 
 ## Env Variables
 
