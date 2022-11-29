@@ -10,7 +10,7 @@
 
 **Frontend** : **```Vercel```**
 
-# Prerequisits:
+# Prerequisites:
 
 ```Install Node.Js```
 
