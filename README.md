@@ -6,7 +6,7 @@
 
 **For Hosting(Heroku Alternative)⤵️**
 
-**Backend** : **```Render```** (Response time⏰: 30sec approximately)
+**Backend** : **```Render```** (First Response time⏰: 30sec approximately)
 
 **Frontend** : **```Vercel```**
 
