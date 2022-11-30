@@ -7,6 +7,7 @@
 **For Hosting(Heroku Alternative)⤵️**
 
 **Backend** : **```Render```** (First Response time⏰: 30sec approximately)
+**`Refresh the payment page for 2-3 times if its showing Error 404`**
 
 **Frontend** : **```Vercel```**
 
