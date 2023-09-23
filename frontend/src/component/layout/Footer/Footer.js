@@ -11,7 +11,7 @@ const Footer = () => {
         <h1>OAGMS</h1>
         <p>Marketplace for the most precious Arts</p>
         <p>Copyrights 2021 &copy; OAGMS</p>
-        <a href="https://www.linkedin.com/in/meghadri-koley-165018203/" target="blank">
+        <a href="https://www.linkedin.com/in/abhishekkansal07/" target="blank">
               <LinkedIN className="linkedinSvgIcon" />
         </a>
         <a href="https://instagram.com/oagms" target="blank">
